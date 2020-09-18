@@ -1,4 +1,4 @@
-/*The Sum Of Series*/
+/*The Sum Of Series PASSWORD 1001*/
 #include <stdio.h>
 #include <math.h>
 void main()
