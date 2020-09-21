@@ -6,13 +6,10 @@ void main()
 
     printf("Enter two numbers here:");
     scanf("%f %f",&a,&b);
-   X = abs(b - a);
+   
     X = b - a;
     a = X + a;
     b = b - X;
 
     printf("%.1f %.1f",a,b);
-
-
-
 }
