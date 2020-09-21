@@ -12,4 +12,10 @@ void main()
     b = b - X;
 
     printf("%.1f %.1f",a,b);
+
+                 //OTHER METHOD(ZERO OPERATIONS)//
+ 
+   /*X = a;a = b;b=X;
+     printf("%.1f %.1f",a,b); */
+
 }
