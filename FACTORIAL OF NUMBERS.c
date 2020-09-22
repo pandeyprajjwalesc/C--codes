@@ -1,4 +1,4 @@
-//FACTORIAL OF NUMBERS //
+//FACTORIAL OF NATURAL NUMBERS //
 #include<stdio.h>
 void main()
 {   int N,i=1,mult=1;
