@@ -146,6 +146,7 @@ void main ()
             printf("\n");
             printf("\a");
             }
+    printf("THANK YOU FOR USING THIS SOFTWARE.");
   }
 
 
